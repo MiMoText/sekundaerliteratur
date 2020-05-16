@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="Encoding">
-    <file url="file://$PROJECT_DIR$/keywords.txt" charset="windows-1252" />
     <file url="file://$PROJECT_DIR$/my_database.db" charset="UTF-16" />
     <file url="file://$PROJECT_DIR$/rdfdump.db" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/working_with_rdf/data_out/keywords.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/working_with_rdf/data_out/keywords.txt" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/working_with_rdf/data_out/keywords.txt" charset="windows-1252" />
   </component>
 </project>
