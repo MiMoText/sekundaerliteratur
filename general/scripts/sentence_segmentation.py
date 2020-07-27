@@ -20,9 +20,10 @@ for file in filelist:
     f.close()
 
     sent_tok = nltk.sent_tokenize(full_text, language="german")
+    print(sent_tok)
 
-    file_out = open("../data_out/" + str(os.path.basename(file)) + "file_out.txt", "w", encoding="utf-8")
+    file_out = open("../data_out/" + str(os.path.basename(file)) + "file_out_tei.txt", "w", encoding="utf-8")
     for sentence in sent_tok:
-        file_out.writelines(sentence + "\n")
+        file_out.writelines(sentence + "</s> <s>")
 
     file_out.close()

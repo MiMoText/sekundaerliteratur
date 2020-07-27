@@ -1,9 +1,9 @@
 from __future__ import division
 import nltk
-import regex
-from nltk.corpus import udhr
-
 tc = nltk.classify.textcat.TextCat()
+
+# Es soll segmentweise bestimmt werden, ob der Text gerade auf franzöisch oder auf deutsch geschrieben ist
+
 
 langs = [
     "German-UTF8",
@@ -14,7 +14,7 @@ langs = [
 with open("../data_in/rieger.txt", encoding="utf-8") as file:
     data = file.read()
 tokens = nltk.tokenize.word_tokenize(data)
-# es gibt noch ungefähr zehntausend andere tokenizer in nltk.tokenize
+
 print(tokens)
 
 sentences = nltk.sent_tokenize(data)

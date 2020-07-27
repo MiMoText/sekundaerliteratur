@@ -1,4 +1,4 @@
-from lwda.scripts.paper_nltk import word_tokenize
+from lwda.scripts.my_nltk import word_tokenize
 import re
 
 

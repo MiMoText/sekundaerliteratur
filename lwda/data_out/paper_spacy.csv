@@ -1,40 +1,3 @@
-﻿Dietmar Rieger,PER
-StauFFenburg
-,MISC
-Französische,MISC
-Henning Krauß,PER
-Dietmar Rieger,PER
-Deutschen Nationalbibliografie,ORG
-Internet,MISC
-Verlages,MISC
-Germany
-,MISC
-ISSN,ORG
-ISBN,ORG
-Gießen,ORG
-französische,MISC
-Friedrich Wolfzettel,PER
-Frankfurt am Main,LOC
-Les Lettres persanes,ORG
-Hartmut Stenzel,PER
-Gießen,ORG
-Histoire du Chevalier,PER
-Grieux et de Manon Lescaut,LOC
-Gabriele Vickermann,PER
-Gießen,ORG
-Le Paysan parvenu,PER
-Hülk,LOC
-Jean-Jacques Rousseau,PER
-Julie ou La Nouvelle Héloïse,PER
-Les Confessions,PER
-Heinz Thoma,PER
-Halle,LOC
-Denis Diderot,PER
-Jacques le Fataliste,PER
-Halle,LOC
-Les Liaisons dangereuses,LOC
-Erlangen,LOC
-Paul et Virginie,PER
 französischen,MISC
 Stauffenburg Interpretation,MISC
 französischen,MISC
@@ -48,16 +11,6 @@ Académie de Dijon,ORG
 Rousseau,PER
 “,MISC
 “,MISC
-par les lumières de sa raison,MISC
-les ténèbres dans lesquelles la nature l’avoit enveloppé,ORG
-parcourir à pas 5,LOC
-la vaste étendue de l’univers,MISC
-ce qui est encore
-plus grand et plus difficile,MISC
-rentrer en soi pour y étudier l’homme et connoître sa nature,MISC
-ses devoirs,PER
-Toutes ces merveilles se sont renouvelées depuis peu de générations,PER
-citoyen de Genève,PER
 Rousseau,PER
 Jahrhundertmitte,LOC
 Rousseau,PER
@@ -70,25 +23,8 @@ Minister Turgot,ORG
 Melchior Grimm,PER
 Correspondance littéraire,ORG
 “perfectibilité,MISC
-c’est la perfectibilité qu’il a reçue de se rendre plus parfait,MISC
-Quand on réfléchit sérieusement sur l’homme et 5	sur sa déplorable destinée,MISC
-par l’histoire de tant de siècles,MISC
-on est tenté
-de croire que le don de se perfectionner qu’il a reçu de la nature lui a été plus funeste,MISC
-qu’utile,MISC
 Rousseau,PER
-que c’est elle qui le tire à force de temps de cette condition originaire dans laquelle il couleroit,MISC
-jours tranquilles et innocents,LOC
-que c’est elle qui,MISC
-éclore avec les siècles ses lumières et ses erreurs,PER
-ses vices et ses vertus,PER
-“perfectibilité,MISC
 Rousseaus,PER
-’un tableau historique,LOC
-progrès de l’esprit humain,LOC
-Condorcet,LOC
-le progrès de l’égalité dans un même peuple,MISC
-le perfectionnement réel de l’homme,MISC
 katholischen Kirche,ORG
 Louis XIV,PER
 Frankreich,LOC
@@ -103,7 +39,8 @@ Académie des sciences,ORG
 Zeit des Übergangs,ORG
 “,MISC
 “,MISC
-Jahrhundertmitte,MISC
+unmöglich:1715,MISC
+Knotenpunkte,MISC
 Ludwig XIV,PER
 soziale,MISC
 Frankreichs,LOC
@@ -118,9 +55,13 @@ Grundrente profitierend,LOC
 Versailles,LOC
 Paris,LOC
 “divertissement”,MISC
-Ludwig XV,PER
-Ludwig XVI,PER
+Ludwig XV.(bis,PER
+Ludwig XVI.(bis,PER
 Grundsatz,LOC
+“,MISC
+“noblesse de robe”,MISC
+Prestige einbüßenden Königtums,ORG
+formal-juristisch,MISC
 Französische Revolution,MISC
 Régence,LOC
 Bürgertums,LOC
@@ -134,17 +75,8 @@ préliminaire,PER
 sur les éléments de philosophie,MISC
 D’Alembert,MISC
 D’Alembert,MISC
-Voltaires Zadig,PER
-Montesquieus,PER
-lois,PER
-Diderots Bijoux indiscrets,ORG
-Mablys Droit public de l’Europe fondé sur les traités,ORG
-Buffons Histoire naturelle,ORG
-Condillacs Traité,PER
-systèmes,ORG
 Rousseaus,PER
-Voltaires,PER
-Louis XIV,PER
+Discours;Vor,MISC
 D’Alembert,MISC
 D’Alemberts,MISC
 Denkens,LOC
@@ -164,12 +96,6 @@ Kurie,ORG
 Jesuiten,ORG
 Jansenisten,MISC
 “,MISC
-Moreaus Pamphlete,PER
-Premier mémoire sur les cacouacs,MISC
-Nouveau mémoire pour servir à l’histoire des cacouacs,MISC
-Palissots,PER
-Les philosophes,MISC
-“philosophes”,MISC
 Diderot,PER
 Louis de Jaucourt,PER
 “,MISC
@@ -179,8 +105,7 @@ Frankreich,LOC
 Erzfeind,MISC
 Betreiben Voltaires,LOC
 Jean Calas,PER
-Jahr 1771,MISC
-Im Jahr 1767,MISC
+Jahr 1771.Im,MISC
 Helvétius’ sensualistischer Schrift De l'Esprit,PER
 Marmontels,PER
 Bélisaire,PER
@@ -201,6 +126,8 @@ Französischen Revolution,MISC
 Robespierres,PER
 Thermidor des Jahres II,MISC
 literarisch-kulturellen System,MISC
+Chanson,MISC
+Revolutionsrhetorik).Literarische Genera,MISC
 bürgerlich-revolutionäre,MISC
 Französischen Revolution,MISC
 Jahr 1799,MISC
@@ -212,6 +139,7 @@ Napoleon,PER
 Napoleon,PER
 Kontinuitäten,MISC
 Revolution,MISC
+“mélodrame”.Doch,MISC
 französischen,MISC
 Revolution,MISC
 Wende,MISC
@@ -236,6 +164,8 @@ Marquise de Tencin,PER
 D’Alembert,MISC
 Maine,LOC
 Mme Geoffrin,PER
+Ruin rettetZur,PER
+Revolution,MISC
 Mlle de Lespinasse,PER
 Mme d’Holbach,MISC
 Männer-)Clubs,MISC
@@ -261,6 +191,8 @@ Poème sur le siècle de Louis le Grand,MISC
 Voltaires,PER
 Neuwahlen,PER
 Chamfort,PER
+Untertänigkeit”.Viele,PER
+wird.1795/96,MISC
 “Institut de France”,ORG
 Paris,LOC
 Bordeaux,LOC
@@ -293,23 +225,6 @@ Marie-Joseph
 Charles IX ou l’École des Rois,PER
 De la liberté du théâtre en France,MISC
 “Mais tout est arbitraire,MISC
-C’est du caractère particulier,MISC
-c’est du degré de lumières,MISC
-c’est du caprice de quelques hommes,MISC
-que dépend la permission de représenter une pièce de théâtre”,MISC
-pour une nation,ORG
-de la masse des lumières,ORG
-Le gouvernement
-est donc coupable envers une nation,MISC
-quand il gêne la publication de la pensée et de tout ce qui ne nuit point au droit des citoyens,MISC
-Or,ORG
-il est très-évident que les différentes manières 5	de publier sa pensée,MISC
-doivent être également libres,ORG
-Il doit donc être permis de
-,MISC
-ce qu’,MISC
-Il ne peut être nuisible de faire réciter ce qu’,MISC
-Restriktionen im Jahr 1793,MISC
 Napoleon,PER
 Ludwigs XIV,PER
 eingekerkerten Jansenisten,PER
@@ -363,52 +278,18 @@ Großen Revolution,MISC
 Voltaire,PER
 französischen,MISC
 Europas,LOC
-D’Alembert,MISC
-“esprit systématique”,MISC
-“esprit philosophique”,MISC
-“esprit d’hypothèse,MISC
-et avait même,MISC
-parce qu’alors,MISC
-que d’apprendre à penser par soi-même,MISC
-Mais les temps sont changés,MISC
-et un écrivain qui ferait parmi nous l’,MISC
-L’esprit de système est dans la physique ce que
-la métaphysique est dans la géométrie,MISC
-il est presque toujours incapable de nous y conduire par lui-même,MISC
-Éclairé par l’observation de la nature,MISC
-il peut entrevoir les causes des phénomènes,MISC
-mais c’est au calcul à assurer,MISC
-et
-en comparant ces effets avec ceux que l’expérience nous découvre,LOC
-D’Alemberts,MISC
-Bougainville,PER
-Voyage autour du monde,MISC
-si commun aujourd’hui,MISC
-et cependant si peu compatible avec la vraie,MISC
+SNicht,MISC
 Voltaires,PER
 sozialen,MISC
 Fortschritts,PER
 “,MISC
 “,MISC
-Montesquieus,PER
-Mme de Staël,PER
-Wende,MISC
-De la littérature considérée dans ses rapports avec les institutions sociales,LOC
-“rapports nécessaires qui dérivent de la nature,MISC
-Relativität,ORG
-Voltaire,PER
+Voltaire,LOC
 sur les mœurs,MISC
 christlich-teleologisch,MISC
 Voltaire,PER
 Helvétius,PER
 De l’Esprit,MISC
-“,MISC
-Le sage doit être Cosmopolyte,MISC
-et de compatriotes,MISC
-que ceux qui,ORG
-comme lui,ORG
-s’attachent à la recherche du vrai”,MISC
-Mercure de France,ORG
 “bon sauvage,MISC
 Voltaires Traité sur la tolérance,PER
 Derselbe Voltaire,PER
@@ -417,9 +298,7 @@ Zaïre,LOC
 Voltaire,PER
 Mahomet,PER
 Le fanatisme de Mahomet le prophète,MISC
-Dictionnaire philosophique,MISC
-l'apa-nage de l’humanité”,MISC
-“le seul remède aux désordres du genre humain”,MISC
+“tolérance,MISC
 “intolérance théologique”,MISC
 “intolérance civile”,MISC
 Rousseau,PER
@@ -441,15 +320,8 @@ christlichen,MISC
 Le Déisme réfuté par lui-même,MISC
 Nicolas-Sylvestre Bergier,PER
 Toleranzidee,LOC
-la France serait devenue le refuge de tous les visionnaires et de tous les libertins de l’Univers,LOC
-toujours prêts à s’y introduire,PER
-Nous serions réduits à tolérer l’athéisme,PER
-monstres,PER
-Montesquieu,PER
-Helvétius “la cause,PER
-calamités de la terre”,PER
+Bergier,MISC
 Holbachs Système de la Nature,PER
-“bataille philosophique”,MISC
 Zeit wohlgemeinte Vermittlungsversuche,MISC
 André Lamourette,PER
 Lyon,LOC
@@ -468,6 +340,7 @@ Revolution “Gracchus” Babeuf
 “bonheur commun”,MISC
 kommunistische,MISC
 Babeuf,PER
+ein:1797,PER
 Marquis de Mirabeau,PER
 François Quesnay,PER
 Reich der Freiheit,MISC
@@ -476,7 +349,8 @@ Gemeinnutz,PER
 “,MISC
 Ersten Republik,MISC
 Revolution,MISC
-Qu’aurons-nous gagné à détruire l’,MISC
+“,MISC
+Égaux,MISC
 republikanischen,MISC
 Napoleon Bonaparte,PER
 Plebiszit,PER
@@ -534,16 +408,6 @@ Zentrum,ORG
 “goût,MISC
 Saint-Évremond,LOC
 Sur les poèmes,MISC
-U n’y a personne qui ait plus d’admiration que j’en ai pour les ouvrages,MISC
-Anciens,LOC
-l’économie,LOC
-l’élévation de l’esprit,MISC
-l’étendue de la connaissance,MISC
-mais le changement de la religion,PER
-du gouvernement,ORG
-manières,ORG
-en a fait un si grand dans le monde qu’il nous faut comme un
-,ORG
 “doctrine classique,MISC
 Voltaire,PER
 “,MISC
@@ -551,34 +415,18 @@ Voltaire,PER
 arbiträr “,MISC
 “République,MISC
 “,MISC
-révolutions dans son goût,ORG
-Helvétius,PER
-De l’Esprit,MISC
-Voltaire,PER
-“Presque tous les ouvrages,MISC
-hommes changent ainsi que l’imagination qui les produit,LOC
-Les coutumes,LOC
-les langues,LOC
-le goût,ORG
-peuples les plus voisins different,ORG
-que dis-je,ORG
-la même nation n’est plus reconnaissable au bout de trois ou quatre siècles,MISC
-Dans les arts qui dépendent,MISC
-purement de l’,PER
-ils changent en mille manières,PER
-tandis qu’on cherche à les,MISC
+“,MISC
 Abbé Batteux,LOC
 Les Beaux-Arts réduits à un même principe,LOC
 “,MISC
 “,MISC
 “,MISC
 “,MISC
-“imagination”,MISC
+imagination”.Deutlich,MISC
 Diderot,PER
 Poésie,PER
 Rhétorique,PER
 “imitatio”,MISC
-“la bonne imitation est une continuelle invention,MISC
 “sacre de l’écrivain”,MISC
 Paul Bénichou,PER
 Kunstphilosoph Abbé Dubos,PER
@@ -587,10 +435,8 @@ critiques
 “génie naturel”,MISC
 “talent d’,MISC
 “,MISC
-Im Jahr 1740,MISC
-“L’ignorance et le mépris,MISC
-“,MISC
-Louis-Sébastien Mercier,MISC
+Vernunft,MISC
+Louis-Sébastien Mercier,PER
 Voltaire,PER
 Kammerherr Friedrichs II,PER
 Preußen,LOC
@@ -601,30 +447,21 @@ Voltaires,PER
 Babouc,MISC
 “philosophe” ist unparteiisch,MISC
 “,MISC
-“,MISC
+“Vorromantik”.Bei,MISC
+Fragonard,MISC
 galant-erotischen,MISC
 englischen,MISC
-Voltaires,PER
-Gnade,PER
-Satirikers Spott,LOC
+“,MISC
 “,MISC
 “,MISC
 “,MISC
 englischen,MISC
-Diderots “,MISC
-aux hommes l’amour de la vertu,MISC
+läßt.inspirer aux hommes l’amour de la vertu,MISC
 l’horreur du vice”,MISC
 Entretiens avec Dorval,MISC
 Marquis de Sade,MISC
 “,MISC
 “,MISC
-ouvre les trésors du cœur humain,MISC
-sa commisération,ORG
-vertueux”,PER
-Mercier,LOC
-Du théâtre,LOC
-De Bougainville,MISC
-Discours de réception à l'Académie française,MISC
 “,MISC
 moralisch-didaktisch,MISC
 französischen,MISC
@@ -645,9 +482,6 @@ französischen Sprache,MISC
 Rivarol,PER
 Französischen Revolution,MISC
 Berliner Akademie,ORG
-französischen,MISC
-Neapolitaner,LOC
-Buch L’Europe française,MISC
 französischen,MISC
 Europa,LOC
 Berlin,LOC
@@ -698,28 +532,12 @@ Revolution,MISC
 religiös-aufklärerisch,MISC
 profan-aufklärerisch,MISC
 “,MISC
-Voltaire,PER
-gens ne se doutent pas,ORG
-c’est qu’elle dit plus que la prose,MISC
-et en moins de paroles que la prose”,MISC
-Trublet,PER
-De la poésie et des poètes,LOC
-qu’un homme crève de jalousie ou meure de douleur,MISC
-il se mette à faire cent vers,MISC
-quoi de moins naturel,ORG
 Dorat,PER
-On n’est plus rien que par la prose,MISC
-La rime,LOC
+“,MISC
 “prose poétique”,MISC
 “,MISC
-On s’imagine que les fictions ingénieuses,MISC
-les figures hardies,ORG
-les images,ORG
-que la prose n’a pas le même droit à ces richesses,MISC
-préjugé le plus déraisonnable,MISC
-et peut-être le plus universel qui ait jamais obsédé les gens de lettres,LOC
-Abbé de Pons,PER
-sur le poème épique,PER
+“,MISC
+Zeit,MISC
 Voltaire modellbildend,PER
 Louis Racine,PER
 “tragédie philosophique”,MISC
@@ -749,13 +567,13 @@ Mercier,MISC
 L’,MISC
 Zeit,MISC
 “,MISC
-Rêve s’il en fut jamais”,MISC
 Merciers Roman,MISC
 Individuums,MISC
 XXVIII,MISC
 Zukunftsentwurfs,LOC
 angelsächsischen,MISC
 “petit cabinet,MISC
+“,MISC
 “ordre”,MISC
 “,MISC
 “perfection”,MISC
@@ -779,6 +597,7 @@ galant-lizenziösen,LOC
 Romans,LOC
 Briefroman,MISC
 Zeit,MISC
+Höhepunkt:1736,MISC
 Jesuit,ORG
 Charles Porée,PER
 Voltaires,LOC
@@ -790,9 +609,6 @@ Auszügen,LOC
 Bibliothèque bleue,LOC
 soziale,MISC
 soziale,MISC
-“roturier”,MISC
-Sittenroman,PER
-Romanhelden,MISC
 zeitgenössische Gesellschaft,ORG
 Individuums,MISC
 Erzählens,LOC
@@ -803,22 +619,10 @@ Huet,PER
 Encyclopédie-Mitaibeiter Jaucourt,MISC
 “récit fictif de diverses aventures merveilleuses ou vraisemblables de la vie humaine”,MISC
 “choses utiles,MISC
-l’amour du bien et du bon”,MISC
+“,MISC
 englischen,MISC
 Mercure de France,ORG
-chez toutes les Nations,ORG
-le miroir des passions,MISC
-le tableau fidèle du cœur humain,LOC
-renferment en outre la tradition précieuse,PER
-du costume,PER
-de la manière de voir,PER
-de sentir,ORG
-d’agir & de s’,ORG
-temps dont ils parlent,ORG
-ou,ORG
-tout au moins,ORG
 Louis-Sébastien Mercier,PER
-c’est celui qui offre en idée le plan d’une félicité publique et nationale”,MISC
 Gesellschaft auf allen sozialen und psychologischen Ebenen,ORG
 sozialen,MISC
 Marivaux,LOC
@@ -838,9 +642,6 @@ Romans,LOC
 Rousseaus Briefroman Julie ou La Nouvelle Héloïse,PER
 Rousseau,PER
 Richardson,PER
-Mme de Staël,PER
-Essai sur les fictions,PER
-“,MISC
 Bernardin de Saint-Pierres Paul et Virginie,PER
 Gesellschaft und der Unschuld
 ,ORG
@@ -848,23 +649,18 @@ Rousseauist,PER
 Rétif de la Bretonne,PER
 Rousseau du ruisseau”,LOC
 Nicolas,PER
-La paysanne pervertie,PER
-Justine,MISC
+Justine,PER
 Sades Justine,PER
 Rousseauist,PER
 Choderlos de Laclos,PER
 Rétifs,PER
 “bonne compagnie,MISC
-Rousseaus Nouvelle Héloïse,PER
-“J’ai vu les mœurs de mon temps,MISC
-& j’ai publié ces Lettres”,MISC
-Laclos’,MISC
-Kontinuitäten,MISC
+Narrativik,LOC
+Kontinuitäten,LOC
 romanesken Erzählformen und -inhalte,ORG
 Ich-Roman,LOC
 Briefroman,MISC
-“roman personnel”,MISC
-Xavier de Maistres,MISC
+Xavier de Maistres,LOC
 Voyage autour de ma chambre,MISC
 Romantheorie der Zeit,MISC
 Libertiner,PER
@@ -872,17 +668,6 @@ Libertiner,PER
 16 im Jahr 1794,MISC
 Louvet de Couvrays Les amours du chevalier de Faublas,PER
 Mercure de France,LOC
-qu’on n’en lira plus,MISC
-qu’on n’en doit
-plus lire,MISC
-N’est-il donc pas encore permis de reposer sur,MISC
-Les ames tendres &,ORG
-réels,PER
-Leur interdira-t-on les larmes,MISC
-qu’on en doive écarter tout ce qui ne sert pas immédiatement à l’instruction,MISC
-Le rire enfin serait-il,MISC
-“sensibilité”,MISC
-Zeit,MISC
 Zeit,MISC
 Louvet de Couvrays Briefroman Émilie de Varmont,PER
 Louvet,PER
@@ -898,20 +683,6 @@ englischen,MISC
 Marquis de Sade,MISC
 Sades,PER
 “gothic novel”,MISC
-Genre
-,MISC
-dont l’Europe
-entière se ressentait,MISC
-Pour qui connaissait tous les malheurs dont les méchants,MISC
-les hommes,PER
-le roman devenait aussi difficile à faire,MISC
-que monotone à lire,MISC
-il n’y avait point d’individu qui n’eût plus,MISC
-que n’en pouvait peindre en un siècle,MISC
-le plus fameux
-romancier de la littérature,MISC
-il fallait donc appeler,MISC
-l’enfer à son secours,PER
 Marquis de Sade,PER
 Sades,PER
 Divin Marquis,PER
@@ -931,11 +702,6 @@ Marquis de Sade,PER
 romaneske,PER
 “romantisme Empire,MISC
 französische,MISC
-Ariès,LOC
-Georges Duby,PER
-Histoire de la vie privée,PER
-III,PER
-Paris,LOC
 Frank Baasner,PER
 Ideals,LOC
 Heidelberg,LOC
@@ -949,158 +715,23 @@ Bauer-Funke,PER
 französische,MISC
 Gesellschaft und Kultur,ORG
 Stuttgart,LOC
-Düsseldorf,LOC
-Leipzig,LOC
-Genèse de l’esthétique française,PER
-Pisa,LOC
-Paul Bénichou,PER
-Le Sacre de l’écrivain,PER
-Essai sur l’,PER
-Paris,LOC
-Le Concentrique et l’,LOC
-Lumières,LOC
-Paris,LOC
-La Politique et sa mémoire,MISC
-Le Politique et l’historique dans la pensée des Lumières,MISC
-Paris,LOC
-Christian Bergmann,PER
+LeipzigChristian Bergmann,ORG
 Frankfurt/M.,LOC
-Roland Bonnei,PER
-Catherine Rubinger,PER
-Femmes savantes et femmes d’esprit,MISC
-Women intellectuals of the French Enlightenment Century,MISC
-New York,LOC
-Frankfurt/M.,LOC
-Jean-Claude Bourdin,PER
-Les Matérialistes au XVIIIe siècle,LOC
-Paris,LOC
-Fernand Braudel,PER
-Ernest Labrousse,PER
-Bd. 2,LOC
-Temps de l’âge seigneurial aux préludes de l’âge industriel,MISC
-Paris,LOC
+Roland BonneiFrankfurt/M.,MISC
 Peter Bürger,PER
 französischen,MISC
-Frankfurt/M.,LOC
-Emst Cassirer,PER
-Roger Chartier,PER
-Lectures,PER
-Paris,LOC
-Pierre Chaunu,PER
-La Civilisation de l’Europe,PER
-Lumières,PER
-Paris,LOC
-Jacques Chouillet,PER
-L’,PER
-Lumières,ORG
-Paris,LOC
-Robert Darnton,PER
-Bohème littéraire et Révolution,ORG
-Paris,LOC
-Robert Darnton,PER
-La Fin des Lumières,PER
-Mesmérisme et Révolution,MISC
-Paris,LOC
-Robert Darnton,PER
-Edition et sédition,MISC
-l’univers de la littérature clandestine au XVIIIe siècle,PER
-Paris,LOC
-Robert Darnton,PER
-L’Aventure de 1’Encyclopédie,PER
-Un Best-seller au siècle des Lumières,MISC
-Paris,LOC
-L’Idée d’,MISC
-Lumières,PER
-Paris,LOC
-Michel Delon,PER
-Pierre Malandain,PER
-Littérature du XVIIIe siècle,PER
-Paris,LOC
-Jean Deprun,PER
-Paris,LOC
-Dictionnaire européen des Lumières,PER
-Paris,LOC
-Béatrice Didier,PER
-La Littérature de la Révolution française,ORG
-Paris,LOC
-Béatrice Didier,PER
-Histoire de la littérature française du XVIIIe siècle,PER
-Paris,LOC
+Tübingen,ORG
 Herbert Dieckmann,PER
 europäischen Aufklärung,ORG
 München,ORG
-Jacques Domenech,PER
-L'Ethique des Lumières,PER
-Les Fondements de la morale dans la philosophie française du XVIIIe siècle,PER
-Paris,LOC
-Michèle Duchet,PER
-Lumières,PER
-Paris,LOC
-Jean Ehrard,PER
-L'Idée de nature en France dans la première moitié du XVIIIe siècle,PER
-Paris,LOC
-Jean Fabre,PER
-Lumières,PER
-Energie et nostalgie de Rousseau à Mickiewicz,ORG
-Paris,LOC
-Dire et mal dire,ORG
-Paris,LOC
-Roger Favre,PER
-La Mort au siècle des Lumières,ORG
-Lyon,ORG
-François Furet,PER
-Mona Ozouf,PER
-Dictionnaire critique de la Révolution française,PER
-Paris,LOC
-Pierre Gascar,PER
-Les Ecrivains de la Révolution,PER
-Paris,LOC
-Marcel Gauchet,PER
-La Révolution,PER
-la souveraineté,PER
-le peuple et la représentation,LOC
-Paris,LOC
 Paul Geyer,PER
 Descartes,PER
 Rousseau,PER
 Tübingen,LOC
-Dena Goodman,PER
-The Republic of Letters,MISC
-A Cultural History of the French Enlightenment,MISC
-Ithaca,ORG
-N.Y.,LOC
-London,LOC
-Pierre Goubert,PER
-Daniel Roche,PER
-Les Français et l' Ancien Régime,PER
-Paris,LOC
-Ces Livres qu’on ne lit que d’une main,MISC
-Lecture et lecteurs de livres pornographiques au XVIIIe siècle,MISC
-Aix-en-Provence,LOC
-Lumières,LOC
-Paris,LOC
 Hans Ulrich Gumbrecht,PER
 Frankreich,LOC
 München/Wien,LOC
-Paul Hoffmann,PER
-Lumières,LOC
-Paris,LOC
-Paul Hoffmann,PER
-Paris,LOC
-La Crise de la conscience européenne,ORG
-Paris,LOC
-Paul Hazard,PER
-La Pensée européenne au XVIIIe siècle de Montesquieu à Lessing,ORG
-Paris,LOC
-Caroline Jacot-Grappa,PER
-L’Homme dissonant au dix-huitième siècle,PER
-Oxford,ORG
-Thomas M. Kavanagh,PER
-Literature and the Art in the French Enlightenment,ORG
-Philadelphia,ORG
-PA,LOC
 Erich Köhler,PER
-Aufklärung II,PER
 französischen,MISC
 Dietmar Rieger,PER
 Stuttgart,LOC
@@ -1110,236 +741,42 @@ Werner Krauss,PER
 Frankreich,LOC
 Berlin,LOC
 Weimar,LOC
-Catherine Larrère,PER
-L’Invention de l’économie au XVIIIe siècle,PER
-du droit naturel à la physiocratie,MISC
-Paris,LOC
-Emmanuel Le Roy Ladurie,PER
-L’,PER
-Louis XIII à Louis XV,PER
-Paris,LOC
-Masseau,PER
-L'Invention de l’intellectuel dans l’Europe du XVIIIe siècle,PER
-Paris,LOC
-Robert Mauzi,PER
-Paris,LOC
-Robert Mauzi,PER
-Maintenant sur ma Route,PER
-Orléans,PER
-Roland Mortier,PER
-Lumières,PER
-Genf,LOC
-Roland Mortier,PER
-L'Originalité,PER
-Une nouvelle Catégorie esthétique au siècle des Lumières,PER
-Genf,LOC
-François Moureau,PER
-Le Roman vrai de l'Encyclopédie,PER
-Paris,LOC
-Peter Nagy,PER
-Paris,LOC
-Lectures interdites,PER
-Le travail,MISC
-Paris,LOC
-John C. O’Neal,PER
-The Authority of Experience,ORG
-Sensationist Theory in the French Enlight-enment,ORG
-Philadelphia,ORG
-PA,ORG
-Connaissance et rêve,ORG
-rie,ORG
-Lumières,LOC
-New York et al.,LOC
-René Pomeau,PER
-L'Europe des Lumières,PER
-cosmopolitisme,PER
-Paris,LOC
-Pierre Rétat,PER
-Le Journalisme d’Ancien Régime,PER
-Lyon,ORG
-Daniel Roche,PER
-Républicains,PER
-Gens de culture et Lumières au XVIIIe siècle,PER
-Paris,LOC
-Daniel Roche,PER
-La France des Lumières,ORG
-Paris,LOC
-Jacques Roger,PER
-Les Sciences de la vie dans la pensée française au XVIIIe siècle,ORG
-Paris,LOC
-Colloque sous la présidence de Werner Krauss,ORG
-René Pomeau,PER
-Roger Garaudy,PER
-Jean Fabre,PER
-Paris,LOC
 Hans Sanders,PER
 Das Subjekt der Moderne,MISC
 Tübingen 1987,MISC
 Fritz Schalk,PER
-französischen,MISC
-Frankfurt/M.,ORG
-Albert Soboul,PER
-Lumières,LOC
-Paris,LOC
+französischen AufklärungFrankfurt/M.,MISC
 Jürgen von Stackeiberg,PER
 München,LOC
-Jean Starobinski,PER
-L'Invention de la liberté,PER
-Genf,LOC
-Paul Van Tieghem,PER
-Le Sentiment de la nature et le préromantisme européen,PER
-Paris,LOC
-Jean Weisgerber,PER
-Les Masques fragiles,LOC
-Esthétique et formes de la littérature rococo,LOC
-Lausanne,LOC
-Roman
-Lise Andriès,PER
-La Bibliothèque bleue,LOC
-Une Tradition éditoriale,MISC
-Oxford,ORG
-Florence Bancaud-Maënen,PER
-Le Roman d’apprentissage en Europe au XVIIIe siècle,MISC
-Paris,LOC
-Le Roman français au XVIIIe siècle,MISC
-Paris,LOC
 Rudolf Behrens,PER
 Theodizee,PER
 französische,MISC
 Tübingen,LOC
-Georges Benrekassa,PER
-Fables de la personne,PER
-Paris,LOC
-Peter Brooks,PER
-The Novel of Worldliness,ORG
-Princeton,ORG
-Cazenobe,PER
-Le Système du libertinage de Crébillon à Laclos,MISC
-Oxford,LOC
-Fictional France,ORG
-Social Reality in the French Novel,ORG
-Providence,LOC
-N. Y.,LOC
-Oxford,LOC
 München,LOC
-Comille,PER
-L,PER
-Mannheim,LOC
-Henri Coulet,PER
-Le Roman jusqu ’à la Révolution,MISC
-Paris,LOC
-Valérie van Crugten-André,PER
-Le Roman du libertinage,PER
-Redécouverte et réhabilitation,ORG
-Paris,LOC
 Genf,LOC
-Catherine Cusset,PER
-Les Romanciers du plaisirs,LOC
-Essai,LOC
-Paris,LOC
-René Démoris,PER
-Le Roman à la première personne,MISC
-Classicisme aux Lumières,PER
-Paris,LOC
-David J. Denby,PER
-Sentimental Narrative and the Social Order,ORG
-France,LOC
-Cambridge,LOC
-Ma,LOC
 Klaus Dirscherl,PER
 Der Roman der Philosophen,MISC
 Diderot,PER
 Rousseau,PER
 Voltaire,LOC
 Tübingen,LOC
-William F. Edmiston,PER
-four Eighteenth-Century French Novels,ORG
-London,LOC
-Jean Fabre,PER
-Paris,LOC
 Roland Galle,PER
 französischen,MISC
 München,LOC
 Rolf Geißler,PER
 Frankreich,LOC
 Berlin,LOC
-Pierre Hartmann,PER
-Le Contrat et la séduction,PER
-Essai sur la subjectivité amoureuse dans le roman des Lumières,PER
-Paris,LOC
-Jan Herman,PER
-Le mensonge romanesque,PER
-Paramètres,PER
-Amsterdam,LOC
-Leuven,LOC
-Huet,PER
-Le Héros,PER
-Essai sur le roman d’ascension sociale au XVIIIe siècle,PER
-Paris,LOC
-The Family Romance of the French Revolution,ORG
-Berkeley et al. 1992,MISC
-Claire Jacquier,PER
-Romans,PER
-au XVIIIe siècle,MISC
-Lausanne,LOC
-Henri Lafon,PER
-Espaces romanesques du XVIIIe siècle,PER
-Madame de Villedieu à Nodier,PER
-Paris,LOC
-Philippe Laroche,PER
-évolution de la notion de libertinage dans le roman français du XVIIIe siècle,PER
-Québec,LOC
 Wolfgang Matzat,PER
 Rousseau,PER
 Balzac,LOC
 Tübingen,LOC
-Le Dilemme du roman au XVIIIe siècle,MISC
-New Haven,LOC
-Paris,LOC
-Vivienne Mylne,PER
-The Eighteenth Century French Novel,ORG
-Techniques of Illusion,MISC
-Manchester 1965,MISC
 Hans Rudolf Picard,PER
 Heidelberg,ORG
-Jean Rousset,PER
-Narcisse romancier,PER
-Paris,LOC
-Jacques Rustin,PER
-Le Vice à la mode,ORG
-Etude sur le roman français du XVIIIe siècle de 'Manon Lescaut,PER
-’ à l’apparition de ‘La Nouvelle Héloïse ’,MISC
-Paris,LOC
-Jean-Paul Sermain,PER
-Studies on Voltaire and the Eighteenth Century,MISC
-Oxford 233,MISC
 Jürgen Siess,PER
 Diderot,PER
 Restif,PER
 Lespinasse,PER
 Paderborn,LOC
 Jürgen von Stackeiberg,PER
-Rabelais,LOC
-Voltaire,LOC
 französischen,MISC
 München,LOC
-The Art of Make-Believe,MISC
-New Haven,LOC
-London,LOC
-Philip Stewart,PER
-Le Masque et la parole,PER
-Le Langage de l’amour au XVIIIe siècle,MISC
-Paris,LOC
-Philip Stewart,PER
-Half-told Tales,PER
-Dilemmas of Meaning in three French Novels,MISC
-Chapel Hill,MISC
-Tony Tanner,PER
-Adultery in the Novel,ORG
-Baltimore,LOC
-London,LOC
-Pierre Trahard,PER
-Les Maîtres de la sensibilité au XVIIIe siècle,LOC
-Paris,LOC
-Le Roman épistolaire,MISC
-Paris,LOC
